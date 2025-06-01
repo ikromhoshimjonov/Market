@@ -1,8 +1,8 @@
 from django.urls import path
 from django.conf.urls.static import static
 
-from apps.models import Order
-from apps.views.operator import OperatorListView,OrderChangeDetailView,ChangeUserFormView,DeliverListView,DeliverOrderChangeDetailView,DeliverChangeUserFormView
+from app.models import Order
+from app.views.operator import OperatorListView,OrderChangeDetailView,ChangeUserFormView,DeliverListView,DeliverOrderChangeDetailView,DeliverChangeUserFormView
 from root.settings import MEDIA_URL, MEDIA_ROOT
 
 

@@ -4,7 +4,7 @@ from django.db.models import F, Q
 from django.db.models.aggregates import Count, Sum
 from django.views.generic import ListView
 
-from apps.models import DeliverPrice, User, Order
+from app.models import DeliverPrice, User, Order
 
 
 class CompetitionListView(ListView):

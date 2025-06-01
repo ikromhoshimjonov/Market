@@ -5,8 +5,8 @@ from django.db.models import Count, F, Q, Sum
 from django.urls import reverse_lazy
 from django.views.generic import FormView, ListView, DetailView, TemplateView
 
-from apps.forms import ThreedForm
-from apps.models import Thread, Product, Category, Order
+from app.forms import ThreedForm
+from app.models import Thread, Product, Category, Order
 
 
 

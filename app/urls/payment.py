@@ -1,7 +1,7 @@
 from django.urls import path
 from django.conf.urls.static import static
 
-from apps.views import PaymentFormView
+from app.views import PaymentFormView
 from root.settings import MEDIA_URL, MEDIA_ROOT
 
 

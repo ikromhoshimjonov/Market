@@ -1,6 +1,6 @@
 [
     {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 1,
         "fields": {
           "name" : "Bagʻdod",
@@ -8,7 +8,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 2,
         "fields": {
           "name" : "Beshariq",
@@ -16,7 +16,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 3,
         "fields": {
           "name" : "Buvayda",
@@ -24,7 +24,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 4,
         "fields": {
           "name" : "Dangʻara",
@@ -32,7 +32,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 5,
         "fields": {
           "name" : "Fargʻona",
@@ -40,7 +40,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 6,
         "fields": {
           "name" : "Furqat",
@@ -48,7 +48,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 7,
         "fields": {
           "name" : "Margʻilon",
@@ -56,7 +56,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 8,
         "fields": {
           "name" : "Qoʻqon",
@@ -64,7 +64,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 9,
         "fields": {
           "name" : "Oltiariq",
@@ -72,7 +72,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 10,
         "fields": {
           "name" : "Quva",
@@ -80,7 +80,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 11,
         "fields": {
           "name" : "Rishton",
@@ -88,7 +88,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 12,
         "fields": {
           "name" : "Soʻx",
@@ -96,7 +96,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 13,
         "fields": {
           "name" : "Toshloq",
@@ -104,7 +104,7 @@
         }
     },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 14,
         "fields": {
           "name" : "Uchkoʻprik",
@@ -113,7 +113,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 15,
         "fields": {
           "name" : "Yozyovon",
@@ -122,7 +122,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 16,
         "fields": {
           "name" : "Andijon",
@@ -131,7 +131,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 17,
         "fields": {
           "name" : "Asaka",
@@ -140,7 +140,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 18,
         "fields": {
           "name" : "Baliqchi",
@@ -149,7 +149,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 19,
         "fields": {
           "name" : "Boʻz",
@@ -158,7 +158,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 20,
         "fields": {
           "name" : "Buloqboshi",
@@ -167,7 +167,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 21,
         "fields": {
           "name" : "Izboskan",
@@ -176,7 +176,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 22,
         "fields": {
           "name" : "Jalaquduq",
@@ -185,7 +185,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 23,
         "fields": {
           "name" : "Marhamat",
@@ -194,7 +194,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 24,
         "fields": {
           "name" : "Oltinkoʻl",
@@ -203,7 +203,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 25,
         "fields": {
           "name" : "Paxtaobod",
@@ -212,7 +212,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 26,
         "fields": {
           "name" : "Shahrixon",
@@ -221,7 +221,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 27,
         "fields": {
           "name" : "Ulugʻnor",
@@ -230,7 +230,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 28,
         "fields": {
           "name" : "Xoʻjaobod",
@@ -239,7 +239,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 29,
         "fields": {
           "name" : "Qoʻrgʻontepa",
@@ -248,7 +248,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 30,
         "fields": {
           "name" : "Chortoq",
@@ -257,7 +257,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 31,
         "fields": {
           "name" : "Chust",
@@ -266,7 +266,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 32,
         "fields": {
           "name" : "Kosonsoy",
@@ -275,7 +275,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 33,
         "fields": {
           "name" : "Mingbuloq",
@@ -284,7 +284,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 34,
         "fields": {
           "name" : "Namangan",
@@ -293,7 +293,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 35,
         "fields": {
           "name" : "Norin",
@@ -302,7 +302,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 36,
         "fields": {
           "name" : "Pop",
@@ -311,7 +311,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 37,
         "fields": {
           "name" : "Toʻraqoʻrgʻon",
@@ -320,7 +320,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 38,
         "fields": {
           "name" : "Uchqoʻrgʻon",
@@ -329,7 +329,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 39,
         "fields": {
           "name" : "Yangiqoʻrgʻon",
@@ -338,7 +338,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 40,
         "fields": {
           "name" : "Davlatobod",
@@ -347,7 +347,7 @@
     }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 41,
         "fields": {
           "name" : "Bekobod",
@@ -356,7 +356,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 42,
         "fields": {
           "name" : "Boʻka",
@@ -365,7 +365,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 43,
         "fields": {
           "name" : "Chinoz",
@@ -374,7 +374,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 44,
         "fields": {
           "name" : "Ohangaron",
@@ -383,7 +383,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 45,
         "fields": {
           "name" : "Olmaliq",
@@ -392,7 +392,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 46,
         "fields": {
           "name" : "Oqqoʻrgʻon",
@@ -401,7 +401,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 47,
         "fields": {
           "name" : "Parkent",
@@ -410,7 +410,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 48,
         "fields": {
           "name" : "Piskent",
@@ -419,7 +419,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 49,
         "fields": {
           "name" : "Quyi Chirchiq",
@@ -428,7 +428,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 50,
         "fields": {
           "name" : "Toshkent",
@@ -437,7 +437,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 51,
         "fields": {
           "name" : "Oʻrta Chirchiq",
@@ -446,7 +446,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 52,
         "fields": {
           "name" : "Yangiyoʻl",
@@ -455,7 +455,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 53,
         "fields": {
           "name" : "Yuqori Chirchiq",
@@ -464,7 +464,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 54,
         "fields": {
           "name" : "Zangiota",
@@ -473,7 +473,7 @@
     }
   ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 55,
         "fields": {
           "name" : "Chirchiq",
@@ -482,7 +482,7 @@
     }
    ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 56,
         "fields": {
           "name" : "Bektemir",
@@ -491,7 +491,7 @@
     }
    ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 57,
         "fields": {
           "name" : "Chilonzor",
@@ -500,7 +500,7 @@
   },
 
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 58,
         "fields": {
           "name" : "Hamza",
@@ -509,7 +509,7 @@
   },
 
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 58,
         "fields": {
           "name" : "Mirobod",
@@ -517,7 +517,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 60,
         "fields": {
           "name" : "Mirzo Ulug‘bek",
@@ -525,7 +525,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 61,
         "fields": {
           "name" : "Sergeli",
@@ -533,7 +533,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 62,
         "fields": {
           "name" : "Shayxontohur",
@@ -541,7 +541,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 63,
         "fields": {
           "name" : "Olmazor",
@@ -550,7 +550,7 @@
   },
 
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 64,
         "fields": {
           "name" : "Uchtepa",
@@ -558,7 +558,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 65,
         "fields": {
           "name" : "Yakkasaroy",
@@ -566,7 +566,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 66,
         "fields": {
           "name" : "Yunusobod",
@@ -574,7 +574,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 67,
         "fields": {
           "name" : "Yangihayot",
@@ -582,7 +582,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 68,
         "fields": {
           "name" : "Boyovut",
@@ -590,7 +590,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 69,
         "fields": {
           "name" : "Guliston",
@@ -598,7 +598,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 70,
         "fields": {
           "name" : "Mirzaobod",
@@ -606,7 +606,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 71,
         "fields": {
           "name" : "Oqoltin",
@@ -614,7 +614,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 72,
         "fields": {
           "name" : "Sayxunobod",
@@ -622,7 +622,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 73,
         "fields": {
           "name" : "Sardoba",
@@ -630,7 +630,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 74,
         "fields": {
           "name" : "Xovos",
@@ -638,7 +638,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 75,
         "fields": {
           "name" : "Yangiyer",
@@ -646,7 +646,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 76,
         "fields": {
           "name" : "Shirin",
@@ -654,7 +654,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 77,
         "fields": {
           "name" : "Arnasoy",
@@ -662,7 +662,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 78,
         "fields": {
           "name" : "Baxmal",
@@ -671,7 +671,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 79,
         "fields": {
           "name" : "Do‘stlik",
@@ -680,7 +680,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 80,
         "fields": {
           "name" : "Forish",
@@ -689,7 +689,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 81,
         "fields": {
           "name" : "G‘allaorol",
@@ -698,7 +698,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 82,
         "fields": {
           "name" : "Sharof Rashidov",
@@ -707,7 +707,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 83,
         "fields": {
           "name" : "Mirzacho‘l",
@@ -716,7 +716,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 84,
         "fields": {
           "name" : "Paxtakor",
@@ -725,7 +725,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 85,
         "fields": {
           "name" : "Yangiobod",
@@ -734,7 +734,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 86,
         "fields": {
           "name" : "Zarbdor",
@@ -743,7 +743,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 87,
         "fields": {
           "name" : "Zafarobod",
@@ -752,7 +752,7 @@
   }
 ,
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 88,
         "fields": {
           "name" : "Zomin",
@@ -760,7 +760,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 89,
         "fields": {
           "name" : "Konimex",
@@ -768,7 +768,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 90,
         "fields": {
           "name" : "Karmana",
@@ -776,7 +776,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 91,
         "fields": {
           "name" : "Navbahor",
@@ -784,7 +784,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 92,
         "fields": {
           "name" : "Nurota",
@@ -792,7 +792,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 93,
         "fields": {
           "name" : "Qiziltepa",
@@ -800,7 +800,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 94,
         "fields": {
           "name" : "Tomdi",
@@ -808,7 +808,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 95,
         "fields": {
           "name" : "Uchquduq",
@@ -816,7 +816,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 96,
         "fields": {
           "name" : "Xatirchi",
@@ -824,7 +824,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 97,
         "fields": {
           "name" : "Bulungʻur",
@@ -832,7 +832,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 98,
         "fields": {
           "name" : "Jomboy",
@@ -840,7 +840,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 99,
         "fields": {
           "name" : "Kattaqoʻrgʻon",
@@ -848,7 +848,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 100,
         "fields": {
           "name" : "Narpay",
@@ -856,7 +856,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 101,
         "fields": {
           "name" : "Oqdaryo",
@@ -864,7 +864,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 102,
         "fields": {
           "name" : "Payariq",
@@ -872,7 +872,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 103,
         "fields": {
           "name" : "Past Dargʻom ",
@@ -880,7 +880,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 104,
         "fields": {
           "name" : "Paxtachi",
@@ -888,7 +888,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 105,
         "fields": {
           "name" : "Samarqand",
@@ -896,7 +896,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 106,
         "fields": {
           "name" : "Toyloq",
@@ -904,7 +904,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 107,
         "fields": {
           "name" : "Urgut",
@@ -912,7 +912,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 108,
         "fields": {
           "name" : "Qoʻshrabot",
@@ -920,7 +920,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 109,
         "fields": {
           "name" : "Chelak tumani",
@@ -928,7 +928,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 110,
         "fields": {
           "name" : "Ishtixon",
@@ -936,7 +936,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 111,
         "fields": {
           "name" : "Angor",
@@ -944,7 +944,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 112,
         "fields": {
           "name" : "Bandixon",
@@ -952,7 +952,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 113,
         "fields": {
           "name" : "Boysun",
@@ -960,7 +960,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 114,
         "fields": {
           "name" : "Denov",
@@ -968,7 +968,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 115,
         "fields": {
           "name" : "Jarqo‘rg‘on",
@@ -976,7 +976,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 116,
         "fields": {
           "name" : "Muzrabot",
@@ -984,7 +984,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 117,
         "fields": {
           "name" : "Oltinsoy",
@@ -992,7 +992,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 118,
         "fields": {
           "name" : "Qiziriq",
@@ -1000,7 +1000,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 119,
         "fields": {
           "name" : "Qumqo‘rg‘on",
@@ -1008,7 +1008,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 120,
         "fields": {
           "name" : "Sariosiyo",
@@ -1016,7 +1016,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 121,
         "fields": {
           "name" : "Sherobod",
@@ -1024,7 +1024,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 122,
         "fields": {
           "name" : "Sho‘rchi",
@@ -1032,7 +1032,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 123,
         "fields": {
           "name" : "Termiz",
@@ -1040,7 +1040,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 124,
         "fields": {
           "name" : "Uzun",
@@ -1048,7 +1048,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 125,
         "fields": {
           "name" : "Chiroqchi",
@@ -1056,7 +1056,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 126,
         "fields": {
           "name" : "Dehqonobod",
@@ -1064,7 +1064,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 127,
         "fields": {
           "name" : "Gʻuzor",
@@ -1072,7 +1072,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 128,
         "fields": {
           "name" : "Kasbi",
@@ -1080,7 +1080,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 129,
         "fields": {
           "name" : "Kitob",
@@ -1088,7 +1088,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 130,
         "fields": {
           "name" : "Koson",
@@ -1096,7 +1096,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 131,
         "fields": {
           "name" : "Mirishkor",
@@ -1104,7 +1104,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 132,
         "fields": {
           "name" : "Muborak",
@@ -1112,7 +1112,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 133,
         "fields": {
           "name" : "Qamashi",
@@ -1120,7 +1120,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 134,
         "fields": {
           "name" : "Shahrisabz",
@@ -1128,7 +1128,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 135,
         "fields": {
           "name" : "Yakkabogʻ",
@@ -1136,7 +1136,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 136,
         "fields": {
           "name" : "Qarshi",
@@ -1144,7 +1144,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 137,
         "fields": {
           "name" : "Nishon",
@@ -1152,7 +1152,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 138,
         "fields": {
           "name" : "Ko‘kdala",
@@ -1160,7 +1160,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 139,
         "fields": {
           "name" : "Buxoro",
@@ -1168,7 +1168,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 140,
         "fields": {
           "name" : "Gʻijduvon",
@@ -1176,7 +1176,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 141,
         "fields": {
           "name" : "Jondor",
@@ -1184,7 +1184,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 142,
         "fields": {
           "name" : "Kogon",
@@ -1192,7 +1192,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 143,
         "fields": {
           "name" : "Olot",
@@ -1200,7 +1200,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 144,
         "fields": {
           "name" : "Peshku",
@@ -1208,7 +1208,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 145,
         "fields": {
           "name" : "Qorakoʻl",
@@ -1216,7 +1216,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 146,
         "fields": {
           "name" : "Qorovulbozor",
@@ -1224,7 +1224,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 147,
         "fields": {
           "name" : "Romitan",
@@ -1232,7 +1232,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 148,
         "fields": {
           "name" : "Shofirkon",
@@ -1240,7 +1240,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 149,
         "fields": {
           "name" : "Vobkent",
@@ -1248,7 +1248,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 150,
         "fields": {
           "name" : "Bogʻot",
@@ -1256,7 +1256,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 151,
         "fields": {
           "name" : "Gurlan",
@@ -1264,7 +1264,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 152,
         "fields": {
           "name" : "Qoʻshkoʻpir",
@@ -1272,7 +1272,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 153,
         "fields": {
           "name" : "Shovot",
@@ -1280,7 +1280,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 154,
         "fields": {
           "name" : "Urganch",
@@ -1288,7 +1288,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 155,
         "fields": {
           "name" : "Xiva",
@@ -1296,7 +1296,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 156,
         "fields": {
           "name" : "Xonqa",
@@ -1304,7 +1304,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 157,
         "fields": {
           "name" : "Yangiariq",
@@ -1312,7 +1312,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 158,
         "fields": {
           "name" : "Yangibozor",
@@ -1320,7 +1320,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 159,
         "fields": {
           "name" : "Hazorasp",
@@ -1328,7 +1328,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 160,
         "fields": {
           "name" : "Amudaryo",
@@ -1336,7 +1336,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 161,
         "fields": {
           "name" : "Beruniy",
@@ -1344,7 +1344,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 162,
         "fields": {
           "name" : "Chimboy",
@@ -1352,7 +1352,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 163,
         "fields": {
           "name" : "Ellikqalʼa",
@@ -1360,7 +1360,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 164,
         "fields": {
           "name" : "Kegeyli",
@@ -1368,7 +1368,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 165,
         "fields": {
           "name" : "Moʻynoq",
@@ -1376,7 +1376,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 166,
         "fields": {
           "name" : "Nukus",
@@ -1384,7 +1384,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 167,
         "fields": {
           "name" : "Qoʻngʻirot",
@@ -1392,7 +1392,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 168,
         "fields": {
           "name" : "Qanlikoʻl",
@@ -1400,7 +1400,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 169,
         "fields": {
           "name" : "Shumanay",
@@ -1408,7 +1408,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 170,
         "fields": {
           "name" : "Taxtakoʻpir",
@@ -1416,7 +1416,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 171,
         "fields": {
           "name" : "Toʻrtkoʻl",
@@ -1424,7 +1424,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 172,
         "fields": {
           "name" : "Xoʻjayli",
@@ -1432,7 +1432,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 173,
         "fields": {
           "name" : "Boʻzatov",
@@ -1440,7 +1440,7 @@
         }
   },
   {
-        "model": "apps.District",
+        "model": "app.District",
         "pk": 174,
         "fields": {
           "name" : "Qoraoʻzak",

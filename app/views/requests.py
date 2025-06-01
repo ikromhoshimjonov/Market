@@ -1,6 +1,6 @@
 from django.views.generic import TemplateView
 
-from apps.models import Payment, Order
+from app.models import Payment, Order
 
 
 class RequestTemplateView(TemplateView):

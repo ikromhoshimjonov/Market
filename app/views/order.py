@@ -7,8 +7,8 @@ from django.shortcuts import render, redirect
 from django.urls import reverse_lazy, reverse
 from django.views.generic import FormView, TemplateView, ListView, View, DetailView
 
-from apps.forms import AuthForm, ProfileForm, ChangePasswordForm, OrderProductForm
-from apps.models import User, Product, Category, Region, District, Wishlist, Order, DeliverPrice, Thread
+from app.forms import AuthForm, ProfileForm, ChangePasswordForm, OrderProductForm
+from app.models import User, Product, Category, Region, District, Wishlist, Order, DeliverPrice, Thread
 
 
 class WishlistView(LoginRequiredMixin, View):

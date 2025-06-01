@@ -1,6 +1,6 @@
 [
     {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 1,
         "fields": {
           "name" : "Uy Uchun",
@@ -9,7 +9,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 2,
         "fields": {
           "name" : "Bolalar uchun",
@@ -18,7 +18,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 3,
         "fields": {
           "name" : "Sovg'a",
@@ -27,7 +27,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 4,
         "fields": {
           "name" : "Ayollar",
@@ -36,7 +36,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 5,
         "fields": {
           "name" : "Davolovchi mahsulotlar",
@@ -45,7 +45,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 6,
         "fields": {
           "name" : "Erkaklar uchun",
@@ -54,7 +54,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 7,
         "fields": {
           "name" : "Fitnes",
@@ -63,7 +63,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 8,
         "fields": {
           "name" : "Davolovchi mazlar",
@@ -72,7 +72,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 9,
         "fields": {
           "name" : "Mashina uchun",
@@ -81,7 +81,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 10,
         "fields": {
           "name" : "Kitoblar",
@@ -90,7 +90,7 @@
         }
     },
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 11,
         "fields": {
           "name" : "Aqilli soat",
@@ -100,7 +100,7 @@
     }
   ,
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 12,
         "fields": {
           "name" : "Atir",
@@ -110,7 +110,7 @@
     }
   ,
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 13,
         "fields": {
           "name" : "Yangi yil maxsulotlari",
@@ -120,7 +120,7 @@
     }
   ,
    {
-        "model": "apps.Category",
+        "model": "app.Category",
         "pk": 14,
         "fields": {
           "name" : "Eloktronika",

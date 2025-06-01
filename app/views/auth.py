@@ -9,8 +9,8 @@ from django.shortcuts import redirect, render
 from django.urls import reverse_lazy
 from django.views.generic import FormView, TemplateView, ListView, View, DetailView
 
-from apps.forms import AuthForm, ProfileForm, ChangePasswordForm, OrderProductForm
-from apps.models import User, Product, Category, Region, District, Wishlist, Order, DeliverPrice
+from app.forms import AuthForm, ProfileForm, ChangePasswordForm, OrderProductForm
+from app.models import User, Product, Category, Region, District, Wishlist, Order, DeliverPrice
 
 
 

@@ -6,8 +6,8 @@ from django.shortcuts import render
 from django.urls import reverse_lazy
 from django.views.generic import TemplateView, DetailView, UpdateView, FormView
 
-from apps.forms import UserDataForm, DeliverDataForm
-from apps.models import Order, Category, Region
+from app.forms import UserDataForm, DeliverDataForm
+from app.models import Order, Category, Region
 
 
 class OperatorListView(TemplateView):

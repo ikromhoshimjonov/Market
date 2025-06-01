@@ -38,15 +38,15 @@ class Product(BaseSlugModel):
     price = DecimalField(max_digits=10, decimal_places=2)
     image = ImageField(upload_to="images/")
     quantity =IntegerField(null=True,blank=True)
-    category = ForeignKey("apps.Category",on_delete=CASCADE)
+    category = ForeignKey("app.Category", on_delete=CASCADE)
     telegram_url = CharField(max_length=255,null=True,blank=True)
 
     discount_price = DecimalField(max_digits=7,decimal_places=2,null=True,blank=True)
     discount = CharField(max_length=255,blank=True,null=True)
 
 class Wishlist(Model):
-    user= ForeignKey("apps.User",on_delete=CASCADE)
-    product = ForeignKey("apps.Product",on_delete=CASCADE)
+    user= ForeignKey("app.User", on_delete=CASCADE)
+    product = ForeignKey("app.Product", on_delete=CASCADE)
 
 
 class CustomUserManager(UserManager):
@@ -88,7 +88,7 @@ class User(AbstractUser):
 
     first_name = CharField(max_length=255)
     last_name = CharField(max_length=255)
-    district = ForeignKey("apps.District",on_delete=SET_NULL,null=True,blank=True)
+    district = ForeignKey("app.District", on_delete=SET_NULL, null=True, blank=True)
     address = CharField(max_length=255)
     telegram_id = IntegerField(unique=True,blank=True,null=True)
     about = TextField()
@@ -103,7 +103,7 @@ class Payment(Model):
         COMPLETED = "completed","Completed"
         CANCEL = "cancel","Cancel"
 
-    user = ForeignKey("apps.User",on_delete=CASCADE)
+    user = ForeignKey("app.User", on_delete=CASCADE)
     photo = ImageField(upload_to="payments_photos/",blank=True)
     payment_at = DateTimeField(auto_now_add=True)
     status = CharField(max_length=20,choices=StatusType,default=StatusType.Review)
@@ -114,7 +114,7 @@ class Payment(Model):
 
 class District(Model):
     name  = CharField(max_length=255)
-    region = ForeignKey("apps.Region",on_delete=CASCADE)
+    region = ForeignKey("app.Region", on_delete=CASCADE)
 
 
 class Region(Model):
@@ -122,13 +122,13 @@ class Region(Model):
 
 
 class Thread(Model):
-    user = ForeignKey("apps.User",on_delete=CASCADE,blank=True)
-    product  = ForeignKey("apps.Product",on_delete=CASCADE,related_name="threed")
+    user = ForeignKey("app.User", on_delete=CASCADE, blank=True)
+    product  = ForeignKey("app.Product", on_delete=CASCADE, related_name="threed")
     discount_sum = IntegerField(null=True,blank=True,default=0)
     name = CharField(max_length=255)
     created_at = DateTimeField(auto_now_add=True)
     visit_count = IntegerField(null=True, blank=True,default=0)
-    payment = ForeignKey("apps.Payment",on_delete=CASCADE,null=True,blank=True,related_name="threed")
+    payment = ForeignKey("app.Payment", on_delete=CASCADE, null=True, blank=True, related_name="threed")
 
 
 
@@ -157,12 +157,12 @@ class Order(Model):
         CONFIRMED = "confirmed","Confirmed"
 
     full_name = CharField(max_length=200)
-    owner = ForeignKey("apps.User",on_delete=SET_NULL,null=True,blank=True,related_name="orders")
+    owner = ForeignKey("app.User", on_delete=SET_NULL, null=True, blank=True, related_name="orders")
     phone_number = CharField(max_length=20)
     ordered_at = DateTimeField(auto_now_add=True)
-    threed = ForeignKey("apps.Thread",on_delete=SET_NULL,null=True,blank=True,related_name="orders")
-    product = ForeignKey("apps.Product",on_delete=CASCADE ,null=True ,blank=True,related_name="thread_order")
-    district = ForeignKey("apps.District",on_delete=SET_NULL,related_name="district",null=True,blank=True)
+    threed = ForeignKey("app.Thread", on_delete=SET_NULL, null=True, blank=True, related_name="orders")
+    product = ForeignKey("app.Product", on_delete=CASCADE, null=True, blank=True, related_name="thread_order")
+    district = ForeignKey("app.District", on_delete=SET_NULL, related_name="district", null=True, blank=True)
     quantity = IntegerField(default=1)
     status = CharField(max_length=15,choices=StatusType,default=StatusType.NEW)
     update_at = DateTimeField(auto_now=True)

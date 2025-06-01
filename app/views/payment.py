@@ -2,8 +2,8 @@ from django.contrib import messages
 from django.urls import reverse_lazy
 from django.views.generic import FormView
 
-from apps.forms import PaymentForm
-from apps.models import User, Payment
+from app.forms import PaymentForm
+from app.models import User, Payment
 
 
 class PaymentFormView(FormView):

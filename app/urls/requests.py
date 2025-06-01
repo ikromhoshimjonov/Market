@@ -1,6 +1,6 @@
 from django.urls import path
 from django.conf.urls.static import static
-from apps.views.requests import RequestTemplateView, DiagramTemplateView
+from app.views.requests import RequestTemplateView, DiagramTemplateView
 from root.settings import MEDIA_URL, MEDIA_ROOT
 
 urlpatterns = [

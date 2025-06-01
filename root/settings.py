@@ -20,11 +20,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "apps",
+    "app",
     "ckeditor",
     'django.contrib.humanize'
 ]
-AUTH_USER_MODEL =  "apps.user"
+AUTH_USER_MODEL =  "app.user"
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',

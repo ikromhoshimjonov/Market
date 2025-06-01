@@ -2,8 +2,8 @@
 from django.urls import path
 from django.conf.urls.static import static
 
-from apps.views import ThreedListView
-from apps.views.threed import ThreedFormView, ThreedProductDetailView,ThreadStaticTemplateView
+from app.views import ThreedListView
+from app.views.threed import ThreedFormView, ThreedProductDetailView,ThreadStaticTemplateView
 from root.settings import MEDIA_URL, MEDIA_ROOT
 
 urlpatterns = [

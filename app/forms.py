@@ -6,7 +6,7 @@ from django.forms import ModelForm, Form
 from django.forms.fields import CharField, IntegerField
 from django.template.defaultfilters import first
 
-from apps.models import User, Order, Thread, Product, Payment
+from app.models import User, Order, Thread, Product, Payment
 
 
 class AuthForm(Form):

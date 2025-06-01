@@ -2,8 +2,8 @@
 from django.urls import path
 from django.conf.urls.static import static
 
-from apps.models import Wishlist
-from apps.views import AuthFormView, HomeListView, ProductListView, UserLogoutView, ProfileListView, RegionFormView, \
+from app.models import Wishlist
+from app.views import AuthFormView, HomeListView, ProductListView, UserLogoutView, ProfileListView, RegionFormView, \
     district_list_view, ChangePasswordFormView, WishlistView, ProductOrderDetailView, LikeProductListView, \
     OrderProductFormView, ProductOrdersListView, MarketListView
 from root.settings import MEDIA_URL, MEDIA_ROOT
